@@ -1,0 +1,17 @@
+my:
+  greeting: Mensaje desde config server para micro-config-cliente dev
+  list: One,Two,Three,Four
+
+#dbValues: {conn:'http__245',username:'Lee',password:'12374'}
+db:
+  connection:
+    conn: http__245
+    username: Lee
+    password: 12374
+  host: 127.0.0.1
+  port: 1200
+
+app:
+  name: My app
+  description: Welcome to ${app.name}
+
