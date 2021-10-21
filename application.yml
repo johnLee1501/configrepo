@@ -1,0 +1,18 @@
+my:
+  greeting: Hello World
+  list: One,Two,Three,Four
+
+#dbValues: {conn:'http__245',username:'Lee',password:'12374'}
+db:
+  connection:
+    conn: http__245
+    username: Lee
+    password: 12374
+  host: 127.0.0.1
+  port: 1200
+
+app:
+  name: My app
+  description: Welcome to ${app.name}
+
+spring.profiles.active: test
