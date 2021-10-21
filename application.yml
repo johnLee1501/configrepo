@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World
+  greeting: Mensaje desde config server
   list: One,Two,Three,Four
 
 #dbValues: {conn:'http__245',username:'Lee',password:'12374'}
