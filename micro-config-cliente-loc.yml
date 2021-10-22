@@ -1,5 +1,5 @@
 my:
-  greeting: Mensaje desde config server para micro-config-cliente local1
+  greeting: Mensaje desde config server para micro-config-cliente local69
   list: One,Two,Three,Four
 
 #dbValues: {conn:'http__245',username:'Lee',password:'12374'}
